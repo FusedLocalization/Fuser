@@ -1,8 +1,8 @@
 apply plugin: 'java'
 apply plugin: 'maven-publish'
 
-group = 'com.github.jitpack'
-version = '2.0'
+group = 'com.github.FusedLocalization'
+version = '0.0.1'
 
 sourceCompatibility = 1.8 // java 8
 targetCompatibility = 1.8
